@@ -1,6 +1,6 @@
 ![IronHack_Logo](https://user-images.githubusercontent.com/92721547/180667578-7208994e-3fdf-4006-8481-d0723b917662.png)
 
-# Lab | Getting started with PowerBi
+# Lab | Getting started with PowerBI
 
 Refer to the `files_for_lab/we_fn_use_c_marketing_customer_value_analysis.csv` dataset.
 
